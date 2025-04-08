@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a><br><br>
 
-I am **Daniele Monaldi**, an italian student attending a bachelor degree in *IT for Digital Communication* at [UNICAM](https://www.unicam.it).
+I am **Daniele Monaldi**, an italian student attending a master degree in *Computer Science* at [UNICAM](https://www.unicam.it).
 
 What I love:
 
